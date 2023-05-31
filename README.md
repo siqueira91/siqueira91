@@ -1,9 +1,10 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siqueira91&label=Profile%20views&color=0e75b6&style=flat" alt="siqueira91" /> </p>
+
 
 - 🌱 I’m currently learning **Front-End Development**
 
 
 <p align="left">
+<a href="https://linkedin.com/in/isaias-siqueira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/isaias-siqueira/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -12,3 +13,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siqueira91&show_icons=true&locale=en&layout=compact" alt="siqueira91" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siqueira91&show_icons=true&locale=en" alt="siqueira91" /></p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=siqueira91&bg_color=0d0d0f&color=f6f5f4&line=613583&point=ff7800&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
