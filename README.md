@@ -10,6 +10,7 @@
 <ul>
 <li><a href="https://www.dio.me/certificate/71D58726/share" target="_blank">BootCamp Banco PAN Java Developer</a> (114h)</li>
 <li><a href="https://www.dio.me/certificate/D013796C/share" target="_blank">Potência Tech Angular Developer - Powered by iFood</a>   (75h)</li>
+<li><a href="https://www.dio.me/certificate/6D808E73/share" target="_blank">Formação Angular Developer</a> (37h)</li>
 <li><a href="https://www.dio.me/certificate/180FEB4E/share" target="_blank">Formação JavaScript Developer</a> (39h)</li>
 <li><a href="https://www.dio.me/certificate/AC3FAD58/share" target="_blank">Formação CSS Web Developer</a> (43h)</li>
 <li><a href="https://www.dio.me/certificate/62105D74/share" target="_blank">Formação HTML Web Developer</a> (21h)</li>
