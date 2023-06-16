@@ -15,6 +15,8 @@
 <li><a href="https://www.dio.me/certificate/AC3FAD58/share" target="_blank">Formação CSS Web Developer</a> (43h)</li>
 <li><a href="https://www.dio.me/certificate/62105D74/share" target="_blank">Formação HTML Web Developer</a> (21h)</li>
 <li><a href="https://www.dio.me/certificate/2D827C67/share" target="_blank">Formação UX Designer</a> (30h)</li>
+ .
+ <li><a href="https://www.dio.me/certificate/D9858F61/share" target="_blank">Formação Linux Fundamentals</a> (23h)</li>
  </ul>
 <br>
 
