@@ -28,7 +28,7 @@
 <li><a href="https://www.dio.me/certificate/6D95A0A1/share" target="_blank">Fortaleza dos CodeMiners - Codecamp 2nd (C/C++) </a> (18h)</li>
 <li><a href="https://www.dio.me/certificate/431BF1F4/share" target="_blank">Codecamp | 1st Edition (Javascript)</a> (14h)</li>
 <li><a href="https://www.dio.me/certificate/C55392A2/share" target="_blank">Descubra a Nuvem AWS - Nexa Resources</a> (6h)</li>
-.
+
 <h3>FORMAÇÕES</h3>
 <li><a href="https://www.dio.me/certificate/39C786E7/share" target="_blank">Formação Java Developer</a> (76h)</li>
 <li><a href="https://www.dio.me/certificate/A88ABAB5/share" target="_blank">Formação TypeScript Fullstack Developer</a> (44h)</li>
